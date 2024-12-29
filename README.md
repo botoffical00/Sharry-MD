@@ -13,7 +13,7 @@
             onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.3)';"
         >
     </a>
-    <p style="margin-top: 10px; font-size: 18px; color: #333;">𝙅𝘼𝙕𝘼𝙆𝘼𝙇𝙇𝘼𝙃 𝙏𝙊 𝙈𝙐𝘿𝘼𝙎𝙎𝘼𝙍 𝘼𝙒𝘼𝙉 𝙕𝘼𝘿𝘼 𝙁𝙊𝙍 𝙏𝙃𝙄𝙎 𝘽𝙊𝙏</p>
+    <p style="margin-top: 10px; font-size: 18px; color: #333;">𝙅𝘼𝙕𝘼𝙆𝘼𝙇𝙇𝘼𝙃 𝙏𝙊 𝐒𝐇𝐀𝐇𝐀𝐑𝐘𝐀𝐑 𝐀𝐋𝐈❤️ 𝙁𝙊𝙍 𝙏𝙃𝙄𝙎 𝘽𝙊𝙏</p>
 
 
 ---------
