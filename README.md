@@ -5,9 +5,9 @@
     <a href="" style="text-decoration: none;">
         <img 
             alt="AWAN" 
-            width="700" 
-            height="400" 
-            src="https://qu.ax/OAbEA.jpg" 
+            width="600" 
+            height="500" 
+            src="https://qu.ax/FPFaq.jpg" 
             style="border: 3px solid #000; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;"
             onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0, 0, 0, 0.4)';"
             onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.3)';"
@@ -23,7 +23,7 @@
 
 ----------
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://imgur.com/a/IQJloW6'/></a>
 
 -------
 
