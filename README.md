@@ -5,7 +5,7 @@
     <a href="" style="text-decoration: none;">
         <img 
             alt="AWAN" 
-            width="600" 
+            width="700" 
             height="500" 
             src="https://qu.ax/FPFaq.jpg" 
             style="border: 3px solid #000; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;"
