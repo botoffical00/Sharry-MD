@@ -44,7 +44,7 @@ src="https://cardivo.vercel.app/api?name=SHARRY%20%MD%20V2&description=🥂THE%2
 --------
 
 <p align="center">
-<a href="https://github.com/SHARRYMD/"><img title="Followers" src="https://img.shields.io/github/followers/SILENTLOVER40?color=blue&style=flat-square"></a>
+<a href="https://github.com/SHARRYMD/"><img title="Followers" src="https://img.shields.io/github/followers/SHARRYMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SILENTLOVER40/SILENT-SOBX-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SILENTLOVER40/SILENT-SOBX-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/SILENTLOVER40/SILENT-SOBX-MD?style=flat-square&color=blue"></a>
@@ -72,7 +72,7 @@ src="https://cardivo.vercel.app/api?name=SHARRY%20%MD%20V2&description=🥂THE%2
 ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSHARRY40%2FSHARRYMD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
 
-![forks](https://img.shields.io/github/forks/SILENTLOVER40/SILENT-SOBX-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/botoffical00/Sharry-MD?label=Forks&style=social)
 
 
 ![stars](https://img.shields.io/github/stars/SILENTLOVER40/SILENT-SOBX-MD?style=social)
