@@ -56,7 +56,7 @@ src="https://cardivo.vercel.app/api?name=SHARRY%20%MD%20V2&description=🥂THE%2
 -----------
 ----------
 
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SHARRY-MD/count.svg" /><br>SILENT-SOBX-MD-V2</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/SHARRY-MD/count.svg" /><br>SHARRY-MD-V2</div>
 
 ------------
 
@@ -78,12 +78,11 @@ src="https://cardivo.vercel.app/api?name=SHARRY%20%MD%20V2&description=🥂THE%2
 ![stars](https://img.shields.io/github/stars/botoffical00/Sharry-MD?style=social)
 
 
-[![FORK SHARRY-MD](https://img.shields.io/badge/FORK%20-SILENT%20SOBX%20MD-white)](https://github.com/botoffical00/Sharry-MD/fork)
+[![FORK SHARRY-MD](https://img.shields.io/badge/FORK%20-MR%20SHARRY%20MD-white)](https://github.com/botoffical00/Sharry-MD/fork)
 
 `⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
 
 ---------------
-
 </a>
 </p>
 
