@@ -1,4 +1,4 @@
-![𝐒𝐇𝐀𝐑𝐑𝐘-𝐌𝐃](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=008080&center=true&vCenter=true&width=600&lines=🥰+𝐀𝐒𝐒𝐋𝐀𝐌-𝐔-𝐀𝐋𝐀𝐈𝐊𝐔𝐌+❣️+𝐄𝐕𝐄𝐑𝐘𝐎𝐍𝐄+👋🏻;😍+𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐒𝐇𝐀𝐑𝐑𝐘+𝐌𝐃+𝐁𝐎𝐓+💙;🔥+𝐓𝐇𝐄+𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐄+𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓+𝐄𝐗𝐏𝐄𝐑𝐈𝐄𝐍𝐂𝐄!;🎉+𝐄𝐍𝐉𝐎𝐘+𝐔𝐍𝐋𝐈𝐌𝐈𝐓𝐄𝐃+𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒+𝐀𝐍𝐃+𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒!;💡+𝐅𝐀𝐒𝐓+%7𝐂+𝐑𝐄𝐋𝐈𝐀𝐁𝐋𝐄+%7𝐂+𝐔𝐒𝐄𝐑-𝐅𝐑𝐈𝐄𝐍𝐃𝐋𝐘+𝐁𝐎𝐓!;✨+𝐋𝐄𝐓'𝐒+𝐆𝐄𝐓+𝐒𝐓𝐀𝐑𝐓𝐄𝐃!)
+n![𝐒𝐇𝐀𝐑𝐑𝐘-𝐌𝐃](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=800&color=008080&center=true&vCenter=true&width=600&lines=🥰+𝐀𝐒𝐒𝐋𝐀𝐌-𝐔-𝐀𝐋𝐀𝐈𝐊𝐔𝐌+❣️+𝐄𝐕𝐄𝐑𝐘𝐎𝐍𝐄+👋🏻;😍+𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐒𝐇𝐀𝐑𝐑𝐘+𝐌𝐃+𝐁𝐎𝐓+💙;🔥+𝐓𝐇𝐄+𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐄+𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓+𝐄𝐗𝐏𝐄𝐑𝐈𝐄𝐍𝐂𝐄!;🎉+𝐄𝐍𝐉𝐎𝐘+𝐔𝐍𝐋𝐈𝐌𝐈𝐓𝐄𝐃+𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒+𝐀𝐍𝐃+𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒!;💡+𝐅𝐀𝐒𝐓+%7𝐂+𝐑𝐄𝐋𝐈𝐀𝐁𝐋𝐄+%7𝐂+𝐔𝐒𝐄𝐑-𝐅𝐑𝐈𝐄𝐍𝐃𝐋𝐘+𝐁𝐎𝐓!;✨+𝐋𝐄𝐓'𝐒+𝐆𝐄𝐓+𝐒𝐓𝐀𝐑𝐓𝐄𝐃!)
 
 
 <div align="center" style="margin: 20px; font-family: Arial, sans-serif;">
@@ -45,10 +45,10 @@ src="https://cardivo.vercel.app/api?name=SHARRY%20%MD%20V2&description=🥂THE%2
 
 <p align="center">
 <a href="https://github.com/SHARRYMD/"><img title="Followers" src="https://img.shields.io/github/followers/SHARRYMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SILENTLOVER40/SILENT-SOBX-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SILENTLOVER40/SILENT-SOBX-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/SILENTLOVER40/SILENT-SOBX-MD?style=flat-square&color=blue"></a>
-<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/botoffical00/Sharry-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/botoffical00/Sharry-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/botoffical00/Sharry-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/botoffical00/Sharry-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/botoffical00/Sharry-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/botoffical00/Sharry-MD?style=flat-square&color=blue"></a>
+<a href="https://github.com/botoffical00/Sharry-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -56,7 +56,7 @@ src="https://cardivo.vercel.app/api?name=SHARRY%20%MD%20V2&description=🥂THE%2
 -----------
 ----------
 
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>SILENT-SOBX-MD-V2</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/SHARRY-MD/count.svg" /><br>SILENT-SOBX-MD-V2</div>
 
 ------------
 
