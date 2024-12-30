@@ -103,7 +103,7 @@ src="https://cardivo.vercel.app/api?name=SHARRY%20%MD%20V2&description=🥂THE%2
 -------
 
 <p align="center">
-  <a href="https://wa.me/+923461628466?text=*ʜɪɪ+sɪʟᴇɴᴛʟᴏᴠᴇʀ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
+  <a href="https://wa.me/+923461628466?text=*ʜɪɪ+Mr-Shaharyar--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+-SHARRY-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 -----------    
