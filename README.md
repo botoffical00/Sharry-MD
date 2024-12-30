@@ -32,7 +32,7 @@
 
 ------------
 
-<img align="center" height="600"
+<img align="center" height="300"
 src="https://cardivo.vercel.app/api?name=SHARRY%20%MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20SHAHARYAR%20ALI♥️%20KING%20OF%20KINGS%20OWNER%20SHARRY%20MD👑&image=https://qu.ax/nkkiF.jpg?v=4&backgroundColor=%23ecf0f1&github=SHARRY&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
