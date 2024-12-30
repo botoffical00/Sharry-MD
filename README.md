@@ -4,8 +4,8 @@
 <div align="center" style="margin: 20px; font-family: Arial, sans-serif;">
     <a href="" style="text-decoration: none;">
         <img 
-            alt="SHHARRY" 
-            width="800" 
+            alt="SHARRY" 
+            width="700" 
             height="400" 
             src="https://qu.ax/trYYD.jpg" 
             style="border: 3px solid #000; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;"
