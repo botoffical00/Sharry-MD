@@ -290,7 +290,7 @@ jobs:
 
 ---------
 
-![IMG-20240330-WA0000](https://qu.ax/lVVzW.jpg)
+![IMG-20240330-WA0000](https://qu.ax/SmGzJ.jpg)
 
 -------------------
 
@@ -303,7 +303,7 @@ jobs:
 
 ------------
 https://img.shields.io/github/license/botoffical00/Sharry-MD?color=green&label=License&style=plastic
-![license](https://img.shields.io/github/license/botoffical00/Sharry-MD?color=green&label=License&style=plastic)
+![license]()
 
 ----------
 
